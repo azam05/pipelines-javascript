@@ -41,3 +41,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+[![Build Status](https://dev.azure.com/asimazam/API%20Management/_apis/build/status/azam05.pipelines-javascript?branchName=master)](https://dev.azure.com/asimazam/API%20Management/_build/latest?definitionId=1&branchName=master)
